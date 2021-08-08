@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <div>
+
 - ⚡ Electrical Engineering Student at UFRGS (Federal University of Rio Grande do Sul - Brazil)
 - 📫 e-mail: oskarnoriyuki@gmail.com
-</div>
+
 
   <div>
     <a href="https://github.com/OskarNoriyuki">
