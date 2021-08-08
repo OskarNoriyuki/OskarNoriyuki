@@ -1,5 +1,7 @@
-### Hi there 👋 I'm Oskar Noriyuki
 
+<div>
+### Hi there 👋 I'm Oskar Noriyuki
+</div>
 <!--
 **OskarNoriyuki/OskarNoriyuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div>
 - ⚡ Electrical Engineering Student at UFRGS (Federal University of Rio Grande do Sul - Brazil)
 - 📫 e-mail: oskarnoriyuki@gmail.com
+</div>
 
-  <div>
+<div>
     <a href="https://github.com/OskarNoriyuki">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OskarNoriyuki&show_icons=true&include_all_commits=true&count_private=true&bg_color=DEG,000000,000000,000000,38bdae&text_color=a9fef7&icon_color=f8d847&title_color=bbff29">
 </div>
