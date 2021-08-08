@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 📫 e-mail: oskarnoriyuki@gmail.com
   <div>
     <a href="https://github.com/OskarNoriyuki">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OskarNoriyuki&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OskarNoriyuki&show_icons=true&include_all_commits=true&count_private=true&bg_color=DEG,000000,000000,000000,38bdae&text_color=a9fef7&icon_color=f8d847&title_color=bbff29/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OskarNoriyuki&layout=compact&langs_count=7&theme=dark"/>
 </div>
